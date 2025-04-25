@@ -1,6 +1,6 @@
 # AI Interview App
 
-[![Live Demo] : https://ai-intervew.vercel.app/
+[Live Demo] : https://ai-intervew.vercel.app/
 **AI Interview** is a smart web application that simulates real-world job interviews. Built with modern JavaScript frameworks and AI technologies, it helps users practice and improve their interview skills in an interactive environment.
 
 ---
