@@ -37,7 +37,7 @@ Clone the repository and install dependencies:
 ```bash
 # Clone the repository
 git clone https://github.com/Yogesh1290/Interview-ai.git
-cd voice-interview-app
+cd Interview-ai-main
 
 # Install dependencies
 npm install
